@@ -1,12 +1,1 @@
-# Nahrajte webovou stránku do tohoto repozitáře
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>TEST1</title>
-    </head>
-    <body>
-        <h1>Hello, World</h1>
-    <br/>
-        <h2>pokus 1</h2>
-    </body>
-</html>
+# Nahrajte webovou stránku do tohoto repozitář
